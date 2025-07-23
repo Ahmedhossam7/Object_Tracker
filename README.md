@@ -15,15 +15,16 @@ Installation:
 1. Clone this repository:
    
    git clone https://github.com/Ahmedhossam7/Object_Tracker.git
+   
    cd Object_Tracker
    
 
-2. Install required dependencies:
+3. Install required dependencies:
    
    pip install opencv-contrib-python
    
 
-3. Run the tracking script:
+4. Run the tracking script:
    
    python Object_Tracker.py
    
