@@ -14,7 +14,7 @@ Features:
 Installation:
 1. Clone this repository:
    
-   git clone https://github.com/YOUR_USERNAME/Object_Tracker.git
+   git clone https://github.com/Ahmedhossam7/Object_Tracker.git
    cd Object_Tracker
    
 
